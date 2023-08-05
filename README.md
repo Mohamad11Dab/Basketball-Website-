@@ -18,6 +18,11 @@ This is the landing page, which is the first thing the user sees, on top of the 
 **Rules:**
 
 This Rules page is a comprehensive guide to basketball rules, covering all aspects of the game from basic concepts to complex strategies. It includes information on regulations for different levels of play, basketball court dimensions, player positions, scoring techniques, fouls and violations, and much more. The site provides clear explanations, examples, and diagrams to help readers understand each rule and how it can be applied in a game.
+
+![image](https://github.com/Mohamad11Dab/Basketball-Website-/assets/114811082/46e35b00-7217-420f-bc9d-a7e6e695ce6a)
+
+
+
  
 
 **Accomplishments:**
@@ -29,6 +34,9 @@ The Accomplishment page provides a thorough examination of the most remarkable f
 **Quiz:**
 
 The Quiz page tests the user’s knowledge with challenging multiple-choice questions after going through the website’s readings. The questions are based on information gathered from the contents of the website. 
+
+![image](https://github.com/Mohamad11Dab/Basketball-Website-/assets/114811082/08b51c7c-62c6-4c27-afac-20935f9c8716)
+
  
 **About:**
 
