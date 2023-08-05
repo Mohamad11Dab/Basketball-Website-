@@ -10,6 +10,9 @@ Welcome to my simple basketball website! This site is dedicated to all basketbal
 
 This is the landing page, which is the first thing the user sees, on top of the page will be the header which consists of the website’s logo and navigation links to other pages. There will be a picture of a famous Australian basketball player called Mathew Dellavedova who will be hosting the website. Mathew will welcome the user to the website and ask to fill in his details in the empty boxes.
 
+![image](https://github.com/Mohamad11Dab/Basketball-Website-/assets/114811082/0b4f4b01-1f14-48ed-be74-02d2ec2d009c)
+
+
  
 
 **Rules:**
